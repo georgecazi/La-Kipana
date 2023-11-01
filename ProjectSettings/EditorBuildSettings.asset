@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: d37ac8d7b9b4a8345a09b6fe89f77338
+  - enabled: 1
+    path: Assets/Scenes/level 1.unity
+    guid: 23f092791fce080448da2c9b7dd2be75
+  - enabled: 1
+    path: Assets/Scenes/level 2.unity
+    guid: 60c51ac27160c38419f5668f1701a5b9
+  - enabled: 1
+    path: Assets/Scenes/level 3.unity
+    guid: ac167b876c76fa346a231ea64be4ebec
+  - enabled: 1
+    path: Assets/Scenes/level 4.unity
+    guid: c832351fba67d9c42b0d27269ee4ddd5
+  - enabled: 1
+    path: Assets/Scenes/BOSS ROOM.unity
+    guid: 17401329efad9a449b20b5bfdd66bbfe
+  - enabled: 1
+    path: Assets/Scenes/GAME OVER.unity
+    guid: 8d4e75e9fc556aa41ba8d8fc4c993421
+  - enabled: 1
+    path: Assets/Scenes/THANK YOU.unity
+    guid: 646caa75465da854184f2f9b6cfedc43
+  - enabled: 1
+    path: Assets/Scenes/WARP ZONE.unity
+    guid: 4202a6be8bcabfd43a6b68c53f82352a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: fac38a952837ff5458c8461751ffd30b, type: 2}
